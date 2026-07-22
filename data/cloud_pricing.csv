@@ -1,0 +1,10 @@
+provider,region,instance_type,hourly_cost
+AWS,US-East,m5.large,0.096
+AWS,EU-West,m5.large,0.107
+AWS,Asia-Pacific,m5.large,0.120
+Azure,US-East,D2s_v3,0.096
+Azure,EU-West,D2s_v3,0.110
+Azure,Asia-Pacific,D2s_v3,0.125
+GCP,US-East,n2-standard-2,0.097
+GCP,EU-West,n2-standard-2,0.115
+GCP,Asia-Pacific,n2-standard-2,0.130
